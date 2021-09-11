@@ -1,6 +1,6 @@
 # Countries in Asia
 
-Counties in Asia educates users about the culture of South Asian countries and enables them to test their knowledge. Additional features include a music player and randomized timed quizzes
+Counties in Asia educates users about the culture of some Asian countries and enables them to test their knowledge. Additional features include a music player and randomized timed quizzes
 
 The development process included the use of various software planning methods, including algorithms, IPO charts and data flow diagrams. Furthermore, core OOP principles such as inheritance, encapsulation and polymorphism were leveraged while following best engineering practices.
 
